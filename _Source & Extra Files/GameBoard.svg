@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="631"
+   height="631"
+   viewBox="0 0 166.95207 166.95209"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Board.svg"
+   inkscape:export-filename="../images/GameBoard.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title827">Game Board</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-381"
+     inkscape:cy="199.30986"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-grids="false"
+     inkscape:window-width="954"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3713" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Game Board</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:date>04.02.2020.</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tibor Buzási</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Tibor Buzási</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>emorris</rdf:li>
+            <rdf:li>emorrisgui</rdf:li>
+            <rdf:li>game</rdf:li>
+            <rdf:li>board</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2020 Tibor Buzási. All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Nine Men's Morris Game Board for eMorrisGUI</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-130.0479)">
+    <g
+       id="g827"
+       transform="matrix(1.0908187,0,0,1.090818,0.21136555,-27.184385)"
+       style="stroke-width:0.91674292">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="144.59999"
+         x="0.26458335"
+         height="152.13542"
+         width="152.13542"
+         id="rect3715" />
+      <rect
+         id="rect4537"
+         width="101.33542"
+         height="101.33542"
+         x="25.4"
+         y="170.26459"
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="195.92917"
+         x="50.799999"
+         height="50.270832"
+         width="50.270832"
+         id="rect4539" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4541"
+         d="M 0,220.8 H 50.8"
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 101.33542,220.8 h 50.8"
+         id="path4543"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 76.2,246.2 V 297"
+         id="path4545"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4547"
+         d="m 76.2,144.86458 v 50.8"
+         style="fill:none;stroke:#000000;stroke-width:0.91674292;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

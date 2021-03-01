@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Resource name="Settings">
+	<FormatVersion major="0" minor="1" />
+	<Info name="Settings" author="Tibor Buzási" copyright="Copyright © 2020 Tibor Buzási. All rights reserved." licence="CC BY 4.0" version="2" lastUpdate="20210227" project="eMorrisGUI" />
+	<Data type="settings">
+		<Video resolutionX="1280" resolutionY="720" fullScreen="0" vSync="1" />
+	</Data>
+</Resource>

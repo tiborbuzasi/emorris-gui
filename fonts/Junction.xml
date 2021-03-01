@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResourceGroup>
+	<FormatVersion major="0" minor="1" />
+	<Resource name="TitleFont">
+		<Info name="Junction Regular" author="Caroline Hadilaksono &amp; Tyler Finck" copyright="Copyright (c) 2010, Caroline Hadilaksono <caroline@hadilaksono.com>, with Reserved Font Name: 'Junction'." licence="SIL Open Font License v1.1" version="2014" lastUpdate="20140329" />
+		<Data type="font">
+			<Font type="single" size="72" />
+			<File filename="Junction-regular.otf" path="fonts/Junction/" relative="1" />
+		</Data>
+	</Resource>
+	<Resource name="TextFont">
+		<Info name="Junction Regular" author="Caroline Hadilaksono &amp; Tyler Finck" copyright="Copyright (c) 2010, Caroline Hadilaksono <caroline@hadilaksono.com>, with Reserved Font Name: 'Junction'." licence="SIL Open Font License v1.1" version="2014" lastUpdate="20140329" />
+		<Data type="font">
+			<Font type="single" size="28" />
+			<File filename="Junction-regular.otf" path="fonts/Junction/" relative="1" />
+		</Data>
+	</Resource>
+	<Resource name="NoteFont">
+		<Info name="Junction Regular" author="Caroline Hadilaksono &amp; Tyler Finck" copyright="Copyright (c) 2010, Caroline Hadilaksono <caroline@hadilaksono.com>, with Reserved Font Name: 'Junction'." licence="SIL Open Font License v1.1" version="2014" lastUpdate="20140329" />
+		<Data type="font">
+			<Font type="single" size="16" />
+			<File filename="Junction-regular.otf" path="fonts/Junction/" relative="1" />
+		</Data>
+	</Resource>
+</ResourceGroup>

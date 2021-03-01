@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90"
+   height="90"
+   viewBox="0 0 23.8125 23.812501"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="GamePiece_Green.svg"
+   inkscape:export-filename="../images/GamePiece_Green.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title858">Game Piece - Green</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient854"
+       inkscape:collect="always">
+      <stop
+         id="stop850"
+         offset="0"
+         style="stop-color:#006000;stop-opacity:1" />
+      <stop
+         id="stop852"
+         offset="1"
+         style="stop-color:#00d000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient822">
+      <stop
+         style="stop-color:#00f000;stop-opacity:1"
+         offset="0"
+         id="stop818" />
+      <stop
+         style="stop-color:#009000;stop-opacity:1"
+         offset="1"
+         id="stop820" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient854"
+       id="linearGradient862"
+       x1="277.15622"
+       y1="-11.90625"
+       x2="293.03122"
+       y2="-11.90625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.003937,0,0,1.003937,-1.1223698,0.04687489)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient822"
+       id="linearGradient870"
+       x1="273.15833"
+       y1="-11.935416"
+       x2="296.97083"
+       y2="-11.935416"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient822"
+       id="linearGradient914"
+       gradientUnits="userSpaceOnUse"
+       x1="273.15833"
+       y1="-11.935416"
+       x2="296.97083"
+       y2="-11.935416"
+       gradientTransform="translate(0.0291548,0.02916622)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="54.592178"
+     inkscape:cy="4.5740438"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g874"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="false"
+     inkscape:window-width="954"
+     inkscape:window-height="1039"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Game Piece - Green</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tibor Buzási</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Copyright © 2020 Tibor Buzási. All rights reserved.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>04.02.2020.</dc:date>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Tibor Buzási</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>emorris</rdf:li>
+            <rdf:li>emorrisgui</rdf:li>
+            <rdf:li>game</rdf:li>
+            <rdf:li>piece</rdf:li>
+            <rdf:li>green</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>Green Game Piece for eMorrisGUI</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-273.18748)">
+    <g
+       id="g874">
+      <circle
+         r="11.40625"
+         transform="rotate(90)"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="-11.90625"
+         cx="285.09372"
+         id="path815"
+         style="fill:#00c000;fill-opacity:1;stroke:url(#linearGradient914);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="7.4375"
+         transform="rotate(90)"
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="-11.90625"
+         cx="285.09372"
+         id="path815-5"
+         style="fill:#00b000;fill-opacity:1;stroke:url(#linearGradient862);stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

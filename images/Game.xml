@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ResourceGroup>
+	<FormatVersion major="0" minor="1" />
+	<Resource name="GameBoard">	
+		<Info name="Game Board" author="Tibor Buzási" copyright="Copyright © 2020 Tibor Buzási. All rights reserved." licence="CC BY 4.0" version="2" lastupdate="20210219" project="eMorrisGUI" />
+		<Data type="image">
+			<Image type="single" width="631" height="631" originX="316" originY="316" />
+			<File filename="GameBoard.png" path="images/" relative="1" />
+		</Data>
+	</Resource>
+	<Resource name="RedPiece">
+		<Info name="Red Piece" author="Tibor Buzási" copyright="Copyright © 2020 Tibor Buzási. All rights reserved." licence="CC BY 4.0" version="2" lastupdate="20210219" project="eMorrisGUI" />
+		<Data type="image">
+			<Image type="single" width="90" height="90" originX="45" originY="45" />
+			<File filename="GamePiece_Red.png" path="images/" relative="1" />
+		</Data>
+	</Resource>
+	<Resource name="GreenPiece">
+		<Info name="Green Piece" author="Tibor Buzási" copyright="Copyright © 2020 Tibor Buzási. All rights reserved." licence="CC BY 4.0" version="2" lastupdate="20210219" project="eMorrisGUI" />
+		<Data type="image">
+			<Image type="single" width="90" height="90" originX="45" originY="45" />
+			<File filename="GamePiece_Green.png" path="images/" relative="1" />
+		</Data>
+	</Resource>
+	<Resource name="BlueFieldSelectionMarker">
+		<Info name="Field Selection Marker - Blue" author="Tibor Buzási" copyright="Copyright © 2020 Tibor Buzási. All rights reserved." licence="CC BY 4.0" version="2" lastupdate="20210219" project="eMorrisGUI" />
+		<Data type="image">
+			<Image type="single" width="60" height="60" originX="30" originY="30" />
+			<File filename="FieldSelectionMarker_Blue.png" path="images/" relative="1" />
+		</Data>
+	</Resource>
+	<Resource name="YellowFieldSelectionMarker">
+		<Info name="Field Selection Marker - Yellow" author="Tibor Buzási" copyright="Copyright © 2020 Tibor Buzási. All rights reserved." licence="CC BY 4.0" version="2" lastupdate="20210219" project="eMorrisGUI" />
+		<Data type="image">
+			<Image type="single" width="60" height="60" originX="30" originY="30" />
+			<File filename="FieldSelectionMarker_Yellow.png" path="images/" relative="1" />
+		</Data>
+	</Resource>
+</ResourceGroup>

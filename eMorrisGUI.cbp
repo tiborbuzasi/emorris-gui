@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="eMorrisGUI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Windows Debug">
+				<Option platforms="Windows;" />
+				<Option output="../_Debug/eMorrisGUI" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../_Debug/" />
+				<Option object_output="../_Debug/obj/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="-1" />
+				<Option projectLinkerOptionsRelation="-1" />
+				<Option projectIncludeDirsRelation="-1" />
+				<Option projectLibDirsRelation="-1" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="$(#libmorris.INCLUDE)" />
+				</Compiler>
+				<Linker>
+					<Add option="-mingw32" />
+					<Add directory="$(#libmorris.LIB)" />
+				</Linker>
+			</Target>
+			<Target title="Windows Release">
+				<Option platforms="Windows;" />
+				<Option output="../_Build/eMorrisGUI" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../_Build/" />
+				<Option object_output="../_Build/obj/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="-1" />
+				<Option projectLinkerOptionsRelation="-1" />
+				<Option projectIncludeDirsRelation="-1" />
+				<Option projectLibDirsRelation="-1" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="$(#libmorris.INCLUDE)" />
+				</Compiler>
+				<Linker>
+					<Add option="-mingw32" />
+					<Add directory="$(#libmorris.LIB)" />
+				</Linker>
+			</Target>
+			<Target title="Linux Debug">
+				<Option platforms="Unix;" />
+				<Option output="../_Debug/eMorrisGUI" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../_Debug/" />
+				<Option object_output="../_Debug/obj/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="-1" />
+				<Option projectLibDirsRelation="-1" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="$(#libmorris.LIBDEBUG)/libMorris.a" />
+					<Add directory="$(#libmorris.LIBDEBUG)" />
+				</Linker>
+			</Target>
+			<Target title="Linux Release">
+				<Option platforms="Unix;" />
+				<Option output="../_Build/eMorrisGUI" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../_Build/" />
+				<Option object_output="../_Build/obj/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="-1" />
+				<Option projectLibDirsRelation="-1" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="$(#libmorris.LIB)/libMorris.a" />
+					<Add directory="$(#libmorris.LIB)" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-pedantic" />
+			<Add option="-Wall" />
+			<Add option="-std=c++11" />
+			<Add option="-fexceptions" />
+			<Add option="-DINPUT_MOUSE_STATE" />
+			<Add directory="$(#libmorris.INCLUDE)" />
+		</Compiler>
+		<Linker>
+			<Add option="-lSDL2" />
+			<Add option="-lSDL2_image" />
+			<Add option="-lSDL2_ttf" />
+		</Linker>
+		<Unit filename="AppInfo.hpp" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Main.hpp" />
+		<Unit filename="engine/InterfaceManager.cpp" />
+		<Unit filename="engine/InterfaceManager.hpp" />
+		<Unit filename="engine/ObjectManager.cpp" />
+		<Unit filename="engine/ObjectManager.hpp" />
+		<Unit filename="engine/ResourceManager.cpp" />
+		<Unit filename="engine/ResourceManager.hpp" />
+		<Unit filename="engine/UtilityFunctions.cpp" />
+		<Unit filename="engine/UtilityFunctions.hpp" />
+		<Unit filename="engine/graphics/AlignmentType.hpp" />
+		<Unit filename="engine/graphics/Colors.hpp" />
+		<Unit filename="engine/graphics/DrawFunctions.cpp" />
+		<Unit filename="engine/graphics/DrawFunctions.hpp" />
+		<Unit filename="engine/graphics/GraphicsHandler.cpp" />
+		<Unit filename="engine/graphics/GraphicsHandler.hpp" />
+		<Unit filename="engine/graphics/Position.hpp" />
+		<Unit filename="engine/graphics/Texture.hpp" />
+		<Unit filename="engine/graphics/TextureGroup.hpp" />
+		<Unit filename="engine/input/InputFunctions.cpp" />
+		<Unit filename="engine/input/InputFunctions.hpp" />
+		<Unit filename="engine/input/InputHandler.cpp" />
+		<Unit filename="engine/input/InputHandler.hpp" />
+		<Unit filename="engine/input/InputType.hpp" />
+		<Unit filename="engine/input/MouseState.hpp" />
+		<Unit filename="engine/objects/Object.cpp" />
+		<Unit filename="engine/objects/Object.hpp" />
+		<Unit filename="engine/objects/ObjectFunctions.cpp" />
+		<Unit filename="engine/objects/ObjectFunctions.hpp" />
+		<Unit filename="engine/objects/ObjectIncludes.hpp" />
+		<Unit filename="engine/resources/AttributesType.hpp" />
+		<Unit filename="engine/resources/ResourceDataType.hpp" />
+		<Unit filename="engine/resources/ResourceFunctions.cpp" />
+		<Unit filename="engine/resources/ResourceFunctions.hpp" />
+		<Unit filename="engine/resources/ResourceType.hpp" />
+		<Unit filename="engine/resources/XMLConstants.hpp" />
+		<Unit filename="engine/resources/XMLHandler.cpp" />
+		<Unit filename="engine/resources/XMLHandler.hpp" />
+		<Unit filename="objects/Constants.hpp" />
+		<Unit filename="objects/MenuController.cpp" />
+		<Unit filename="objects/MenuController.hpp" />
+		<Unit filename="objects/game/GamePiece.cpp" />
+		<Unit filename="objects/game/GamePiece.hpp" />
+		<Unit filename="objects/game/GameRound.cpp" />
+		<Unit filename="objects/game/GameRound.hpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
